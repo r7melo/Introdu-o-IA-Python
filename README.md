@@ -1,6 +1,6 @@
-# Portfólio: Introdução à IA com Python
+# Modelos de IA com Python
 
-Este repositório contém notebooks que documentam meu aprendizado sobre Inteligência Artificial com Python. Cada notebook aborda um tópico essencial de IA, desde algoritmos de aprendizado de máquina até redes neurais mais complexas.
+Este repositório contém notebooks que documentam meu aprendizado sobre diferentes modelos de Inteligência Artificial utilizando Python. Cada notebook explora um algoritmo ou técnica essencial de IA, desde métodos clássicos de aprendizado de máquina até redes neurais mais avançadas.
 
 ## Índice
 
@@ -80,5 +80,5 @@ Redes Neurais Convolucionais (CNNs) são amplamente usadas para processamento de
 ---
 
 ### Navegação rápida
-- [Início](#portfólio-introdução-à-ia-com-python)
+- [Início](#modelos-de-ia-com-python)
 - [Ferramentas e Tecnologias Utilizadas](#ferramentas-e-tecnologias-utilizadas)
